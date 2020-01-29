@@ -1,5 +1,5 @@
 def my_hash
-  salaries = {
+  salaries = {"wojo"= 0 
   
   
 end

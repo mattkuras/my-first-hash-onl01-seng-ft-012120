@@ -1,5 +1,5 @@
 def my_hash
-  salaries = {"wojo" => 0 "Lou" => 40 "Matt" => 20}
+  salaries = {"wojo" => 0, "Lou" => 40, "Matt" => 20}
   
   
 end
